@@ -1,10 +1,8 @@
-# Payroll
+# Payroll-case-study
 
-## Members
+## Authors
 
-Wongsathorn Panichkurkul 5910545817
+1. Sathira Kittisukmongkol 5910545868
+2. Varit Assavavisidchai 5910545833
 
-## Test Screen Capture
-
-![alt text](https://github.com/kakmond/payroll/blob/master/screen%20captures/Capture.PNG?raw=true)
-
+## Screenshot
