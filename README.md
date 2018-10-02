@@ -7,4 +7,4 @@
 
 ## Screenshot
 
-![alt text](https://raw.githubusercontent.com/nongjamie/WSP_Payroll-case-study/master/screenshots/Screen%20Shot%201.png)
+![alt text](https://raw.githubusercontent.com/nongjamie/WSP_Payroll-case-study/master/screenshots/Screenshot%201.png)
